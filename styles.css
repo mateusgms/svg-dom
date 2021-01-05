@@ -1,0 +1,15 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  background: #dedede;
+}
+#sidebar {
+  background: #fdfdfd;
+  height: 100%;
+  position: static;
+}
+#desenho {
+  padding: 10px;
+}
